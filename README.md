@@ -252,7 +252,7 @@ Pastikan Python 3 sudah terinstal, lalu jalankan masing-masing file:
 python DFS/pre_order.py
 python DFS/in_order.py
 python DFS/post_order.py
-python DFS/dfs.py        
+python DFS/dfs.py        # gabungan ketiganya
 
 # BFS
 python BFS/level_order.py
